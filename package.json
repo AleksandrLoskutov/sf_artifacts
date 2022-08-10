@@ -1,0 +1,22 @@
+{
+  "name": "b9_2_7_aloskutov",
+  "version": "1.0.0",
+  "description": "SF_B9.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrLoskutov/sf_artifacts.git"
+  },
+  "author": "Aleksandr Loskutov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrLoskutov/sf_artifacts/issues"
+  },
+  "homepage": "https://github.com/AleksandrLoskutov/sf_artifacts#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
