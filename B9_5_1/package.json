@@ -1,0 +1,19 @@
+{
+  "name": "b9_5_1_aloskutov",
+  "version": "1.0.0",
+  "description": "B9.5.1",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrLoskutov/sf_artifacts.git"
+  },
+  "author": "Aleksandr Loskutov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrLoskutov/sf_artifacts/issues"
+  },
+  "homepage": "https://github.com/AleksandrLoskutov/sf_artifacts#readme"
+}
