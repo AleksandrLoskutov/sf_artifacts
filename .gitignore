@@ -1,3 +1,6 @@
 # Dependency directories
 B9_2_7/package-lock.json
 B9_2_7/node_modules/
+B9_3_4/composer.phar
+B9_3_4/composer.lock
+B9_3_4/vendor/

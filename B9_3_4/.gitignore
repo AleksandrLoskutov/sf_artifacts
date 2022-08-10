@@ -1,0 +1,4 @@
+# Dependency directories
+composer.phar
+composer.lock
+vendor/
